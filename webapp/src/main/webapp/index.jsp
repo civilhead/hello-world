@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DEVOPS Learning</h1>
+    <h1>New user Register for DEVOPS master learning</h1>
     <p>Please fill in this form to create an account. This is also a paid course. the fee is 2500$ </p>
     <hr>
      
